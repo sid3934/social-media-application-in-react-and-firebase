@@ -1,0 +1,38 @@
+.navbar{
+    background-color: #EBB1A3;
+    display: flex;
+    justify-content: space-around;
+    height: 10%;
+}
+.home{
+    margin-left: 900px;
+    margin-top: 50px;
+    font-size: 170%;
+    margin-bottom: 50;
+}
+home a:hover{
+    background-color: rgb(177, 121, 48);
+}
+.login{
+    margin-top: 50px;
+    font-size: 170%;
+    margin-bottom: 50px; 
+}
+.pfp{
+    margin-top: 37px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 70px;
+    margin-left: 10px
+}
+.name{
+    margin-left: 5px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    font-size: 170%;
+}
+.createpost{
+    margin-top: 50px;
+    font-size: 170%;
+    margin-bottom: 50px; 
+}
